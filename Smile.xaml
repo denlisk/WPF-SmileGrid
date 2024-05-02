@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Smile"
         mc:Ignorable="d"
-        Title="Smile" MinHeight="100" MinWidth="100">
+        Title="Smile" MinHeight="200" MinWidth="200">
     <Grid x:Name="gridView">
         
     </Grid>
